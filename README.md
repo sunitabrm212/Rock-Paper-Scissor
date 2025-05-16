@@ -1,5 +1,13 @@
-This is a rock paper scissor project created using HTML, CSS and JavaScript.
-In this project, there are two players, one the user and the other is the computer. 
-There are three choices of each image of 'Rock', 'Paper' and 'Scissor' where the user can click to begin the game. 
-If the user clicks any of the choice then the computer
-randomly selects one choice and the choices are compared. If the user wins a message in shown in the button stating 'Your choice beat computer choice.' If the computer wins it shows 'Computer beats your choice'. And if the choices are same it displays 'It is draw. Try Again!'. The winning scores simultaneously increases for both players.
+This is a Rock, Paper, Scissors game built using HTML, CSS, and JavaScript.
+In the game, there are two players: the user and the computer.
+The user can start the game by clicking on one of the three available images representing 'Rock', 'Paper', or 'Scissors'.
+Once the user makes a selection, the computer randomly picks its own choice.
+The two choices are then compared to determine the outcome.
+
+If the user wins, a message appears saying "Your choice beat the computer's choice."
+
+If the computer wins, it shows "Computer beats your choice."
+
+If both choices are the same, it displays "It's a draw. Try again!"
+
+The scores for both the user and the computer are updated accordingly after each round.
