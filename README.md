@@ -1,3 +1,6 @@
+## Website link
+https://sunitabrm212.github.io/Rock-Paper-Scissor/
+
 This is a Rock, Paper, Scissors game built using HTML, CSS, and JavaScript.
 In the game, there are two players: the user and the computer.
 The user can start the game by clicking on one of the three available images representing 'Rock', 'Paper', or 'Scissors'.
